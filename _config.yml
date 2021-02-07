@@ -30,6 +30,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - kramdown-parser-gfm
+  - jekyll-target-blank
 
 exclude: 
   - Gemfile
